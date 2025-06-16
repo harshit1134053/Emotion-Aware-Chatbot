@@ -1,0 +1,7 @@
+Flask
+openai
+transformers
+torch
+sentencepiece
+accelerate
+scikit-learn
