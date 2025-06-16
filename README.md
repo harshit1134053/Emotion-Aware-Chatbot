@@ -18,6 +18,7 @@ This project is a multimodal, emotionally intelligent chatbot that generates non
 
 emotion-aware-chatbot/
 ├── app.py # Main Flask API endpoint
+
 ├── llm_module.py # Prompt design and OpenAI interaction
 ├── emotion_detector.py # Emotion classification (transformers)
 ├── filters.py # Content moderation
